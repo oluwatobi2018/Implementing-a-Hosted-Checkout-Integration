@@ -1,2 +1,2 @@
-# Implementing-a-Hosted-Checkout-Integration
+# Implementing-a-Hosted-Checkout-Integration (Mastercard)
 Implementing a Hosted Checkout Integration
